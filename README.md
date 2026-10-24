@@ -19,6 +19,11 @@ This repository is synced with the Half Life platform, which means it contains a
 
 ## BOM Table
 
+|Item                            |Qty|Supplier|Cost/item |Total Cost|link                                                                                                                                                                                  |
+|--------------------------------|---|--------|----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Brass heat-set inserts (M2 & M3)|3  |Temu    |$3.89/pack|$3.89     |https://www.temu.com/ec/200-piezas-de-insertos-roscados-para-plastico-2-5--insertos-de--metricos-de--con-tuercas-estriadas-insercion-por--en-componentes-de--3d-g-601102824618573.html|
+|3D Print                        |1  |A friend|$0.00     |$0.00     |N/A                                                                                                                                                                                   |
+|Estimated total shipping        |1  |        |          |$0.00     |                                                                                                                                                                                      |
 
 
 ## Screenshots
