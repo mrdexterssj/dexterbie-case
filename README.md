@@ -16,3 +16,17 @@ This case was designed in Onshape, a CAD software that runs entirely on your bro
 This repository contains STEP models inside ```/CAD```. Printable .STL files are found inside ```/printables```.
 
 This repository is synced with the Half Life platform, which means it contains auto-generated files (JOURNAL.md, BOM.csv -> Edited by me)
+
+## BOM Table
+
+
+
+## Screenshots
+
+<img width="306" height="288" alt="image" src="https://github.com/user-attachments/assets/5c134be3-03ba-40c3-939b-21ce631864e8" />
+
+Front render
+
+<img width="306" height="288" alt="image" src="https://github.com/user-attachments/assets/f57d0e40-7673-415f-8f4d-a1cf3b7bb118" />
+
+Back render
